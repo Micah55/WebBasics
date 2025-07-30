@@ -1,0 +1,45 @@
+body{
+    background-color: pink;
+}
+#page{
+    color: blue;
+}
+#cuisine{
+     font-size: 40px;
+    display: flex;
+    justify-content:center;
+   
+}
+#tokyoimg{
+    display: flex;
+    justify-content:center;
+}
+p{
+    font-size: larger;
+}
+li{
+    font-size: larger;
+}
+.link {
+  list-style-type: none;
+  margin: 20px;
+  padding: 0;
+  overflow: hidden;
+  background-color: #ffb7c3;
+}
+
+.link {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: rgba(255, 255, 255, 0.578);
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #111;
+}

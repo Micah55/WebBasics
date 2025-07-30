@@ -1,0 +1,55 @@
+h1{
+    display: flex;
+    justify-content: center;
+}
+
+p{
+    color: black;
+    font-size: 30px;
+}
+li{
+    font-size: 30px;
+}
+#lightmode{
+    background-image: url(white\ background.png) initial;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+table{
+    color: blue;
+
+}
+#resources{
+    color: red;
+}
+#violence{
+    color: blue;
+}
+td{
+    font-size: 30px;
+    
+}
+p{
+    color :lime;
+}
+li{
+    color: red;
+}
+h1{
+    color: violet;
+}
+h3{
+    color: violet;
+}
+#china{
+    display: flex;
+    justify-content: start;
+
+}
+h3{
+    font-size: 30px;
+}
+body{
+    background-color: beige;
+}
+    
